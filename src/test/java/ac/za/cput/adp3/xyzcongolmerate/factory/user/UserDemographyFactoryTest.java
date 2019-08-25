@@ -8,5 +8,6 @@ public class UserDemographyFactoryTest {
 
     @Test
     public void buildUserDemography() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 }

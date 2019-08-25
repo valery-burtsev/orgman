@@ -8,5 +8,6 @@ public class OrganisationUserFactoryTest {
 
     @Test
     public void buildOrganisationUser() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 }

@@ -10,4 +10,9 @@ public interface OrganisationUserService {
     OrganisationUser update(OrganisationUser organisationUser);
     void delete(String orgCode, String userEmail);
     Set<OrganisationUser> getAll();
+
+    //Question1-Service
+    Set<String> getUserFullNamesInOrganisation(String orgCode);
+    //Question2-Service
+    Set<String> getUserOrganisations(String userEmail);
 }

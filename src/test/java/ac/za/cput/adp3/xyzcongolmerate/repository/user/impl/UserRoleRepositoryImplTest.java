@@ -1,28 +1,36 @@
 package ac.za.cput.adp3.xyzcongolmerate.repository.user.impl;
 
+import org.junit.FixMethodOrder;
 import org.junit.Test;
+import org.junit.runners.MethodSorters;
 
 import static org.junit.Assert.*;
 
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class UserRoleRepositoryImplTest {
 
     @Test
-    public void create() {
+    public void a_create() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 
     @Test
-    public void read() {
+    public void b_read() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 
     @Test
-    public void update() {
+    public void c_update() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 
     @Test
-    public void delete() {
+    public void e_delete() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 
     @Test
-    public void getAll() {
-    }String orgCode, String userEmail, String roleId
+    public void d_getAll() {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }

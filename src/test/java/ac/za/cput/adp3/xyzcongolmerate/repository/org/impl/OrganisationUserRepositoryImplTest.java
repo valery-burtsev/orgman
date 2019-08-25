@@ -1,4 +1,4 @@
-package ac.za.cput.adp3.xyzcongolmerate.service.org.impl;
+package ac.za.cput.adp3.xyzcongolmerate.repository.org.impl;
 
 import org.junit.FixMethodOrder;
 import org.junit.Test;
@@ -7,9 +7,8 @@ import org.junit.runners.MethodSorters;
 import static org.junit.Assert.*;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class OrganisationServiceImplTest {
+public class OrganisationUserRepositoryImplTest {
 
-    @Test
     public void a_create() {
         throw new UnsupportedOperationException("Not supported yet.");
     }

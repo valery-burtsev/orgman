@@ -8,5 +8,6 @@ public class OrganisationFactoryTest {
 
     @Test
     public void buildOrganisation() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 }

@@ -8,5 +8,6 @@ public class UserFactoryTest {
 
     @Test
     public void buildUser() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 }

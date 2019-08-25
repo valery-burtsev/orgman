@@ -8,5 +8,6 @@ public class RaceFactoryTest {
 
     @Test
     public void buildRace() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 }

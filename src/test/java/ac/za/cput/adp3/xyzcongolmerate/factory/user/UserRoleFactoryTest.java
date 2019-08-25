@@ -8,5 +8,6 @@ public class UserRoleFactoryTest {
 
     @Test
     public void buildUserRole() {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 }
