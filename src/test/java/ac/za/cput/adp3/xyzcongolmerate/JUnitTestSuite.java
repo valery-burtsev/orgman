@@ -54,7 +54,6 @@ import org.junit.runners.Suite;
         UserDemographyServiceImplTest.class,
         UserRoleServiceImplTest.class,
         UserServiceImplTest.class
-
 })
 
 /**
